@@ -7,7 +7,7 @@ from telegram.ext import (
     ContextTypes,
 )
 
-TOKEN = os.getenv("BOT_TOKEN")
+TOKEN = 8770038370:AAHSUbpadC6WhCJtzhDjucHIdxPRea_VqRM
 
 questions = [
     {
